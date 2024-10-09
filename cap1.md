@@ -1,6 +1,6 @@
 # CAPITULO 1
 
-<p style="color: green;">Prueba de cap 1, gitbook.</p>
+<p style="color: red;">Prueba de cap 1, gitbook.</p>
 
 ```php
 <?php
