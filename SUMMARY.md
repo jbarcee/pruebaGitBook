@@ -1,7 +1,7 @@
 # Table of contents
 
-[Bienvenido](README.md)
+* [Bienvenido](README.md)
 
 ## INICIO
 
-[Capitulo 1](cap1.md)
+* [Capitulo 1](cap1.md)
