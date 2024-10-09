@@ -1,15 +1,9 @@
-<style>
-    p {
-        font-size: 45px;
-        color: green;
-        font-family: 'Arial';
-    }
-</style>
-
 # CAPITULO 1
 
 
-<p>Prueba de cap 1, gitbook.</p>
+<p style="font-size: 45px;
+        color: green;
+        font-family: 'Arial';">Prueba de cap 1, gitbook.</p>
 
 ```php
 <?php
