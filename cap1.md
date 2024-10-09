@@ -1,4 +1,3 @@
-# CAPITULO 1
 <style>
     p {
         font-size: 45px;
@@ -6,6 +5,9 @@
         font-family: 'Arial';
     }
 </style>
+
+# CAPITULO 1
+
 
 <p>Prueba de cap 1, gitbook.</p>
 
