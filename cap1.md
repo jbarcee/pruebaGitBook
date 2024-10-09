@@ -1,10 +1,6 @@
 # CAPITULO 1
-<style>
-    mark {
-        color: red;
-    }
-</style>
-<mark>Prueba de cap 1, gitbook.<mark>
+
+<mark style="color: red">Prueba de cap 1, gitbook.<mark>
 
 ```php
 <?php
